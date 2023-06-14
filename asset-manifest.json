@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.cd325071.css",
-    "main.js": "/static/js/main.e2740b95.js",
+    "main.js": "/static/js/main.89bd4ecc.js",
     "static/media/historyimg.png": "/static/media/historyimg.60975899e96a698fa4fc.png",
     "static/media/EduMgmt.png": "/static/media/EduMgmt.13dc10f7da9bcdeb0b5d.png",
     "static/media/Introduction03.png": "/static/media/Introduction03.ea753a446682cd61f939.png",
@@ -21,14 +21,16 @@
     "static/media/Dataicon.svg": "/static/media/Dataicon.6812c8de834f86a151cdc4226ceb9e85.svg",
     "static/media/Usericon.svg": "/static/media/Usericon.d1c1483c30aea1c351c83f546f61bd4d.svg",
     "static/media/Concepticon.svg": "/static/media/Concepticon.568f0667d25219e48116647aa4adf746.svg",
+    "static/media/call.svg": "/static/media/call.ded3a871403bd90135267b3e5a141dac.svg",
     "index.html": "/index.html",
     "static/media/icon4.svg": "/static/media/icon4.1567d166edcc3856173c2cba23d57dee.svg",
     "static/media/icon2.svg": "/static/media/icon2.25d97a84e569d1411f2e9f9186527aa9.svg",
+    "static/media/company.svg": "/static/media/company.f0ef977f316805186ba9e5a583cbfc2a.svg",
     "main.cd325071.css.map": "/static/css/main.cd325071.css.map",
-    "main.e2740b95.js.map": "/static/js/main.e2740b95.js.map"
+    "main.89bd4ecc.js.map": "/static/js/main.89bd4ecc.js.map"
   },
   "entrypoints": [
     "static/css/main.cd325071.css",
-    "static/js/main.e2740b95.js"
+    "static/js/main.89bd4ecc.js"
   ]
 }
