@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.cd325071.css",
-    "main.js": "/static/js/main.89bd4ecc.js",
+    "main.js": "/static/js/main.da73faff.js",
     "static/media/historyimg.png": "/static/media/historyimg.60975899e96a698fa4fc.png",
     "static/media/EduMgmt.png": "/static/media/EduMgmt.13dc10f7da9bcdeb0b5d.png",
     "static/media/Introduction03.png": "/static/media/Introduction03.ea753a446682cd61f939.png",
@@ -24,13 +24,15 @@
     "static/media/call.svg": "/static/media/call.ded3a871403bd90135267b3e5a141dac.svg",
     "index.html": "/index.html",
     "static/media/icon4.svg": "/static/media/icon4.1567d166edcc3856173c2cba23d57dee.svg",
+    "static/media/Railway.svg": "/static/media/Railway.ea8e91d2708f7276c93dc78c6fffe8de.svg",
     "static/media/icon2.svg": "/static/media/icon2.25d97a84e569d1411f2e9f9186527aa9.svg",
+    "static/media/Bus.svg": "/static/media/Bus.7b27c6a1a6b3d05a7f2c08b1e45dc2b0.svg",
     "static/media/company.svg": "/static/media/company.f0ef977f316805186ba9e5a583cbfc2a.svg",
     "main.cd325071.css.map": "/static/css/main.cd325071.css.map",
-    "main.89bd4ecc.js.map": "/static/js/main.89bd4ecc.js.map"
+    "main.da73faff.js.map": "/static/js/main.da73faff.js.map"
   },
   "entrypoints": [
     "static/css/main.cd325071.css",
-    "static/js/main.89bd4ecc.js"
+    "static/js/main.da73faff.js"
   ]
 }
