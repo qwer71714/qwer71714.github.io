@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.cd325071.css",
-    "main.js": "/static/js/main.da73faff.js",
+    "main.js": "/static/js/main.c0833ce7.js",
     "static/media/historyimg.png": "/static/media/historyimg.60975899e96a698fa4fc.png",
     "static/media/EduMgmt.png": "/static/media/EduMgmt.13dc10f7da9bcdeb0b5d.png",
     "static/media/Introduction03.png": "/static/media/Introduction03.ea753a446682cd61f939.png",
@@ -10,7 +10,10 @@
     "static/media/main.jpg": "/static/media/main.09fd0420a63aee641179.jpg",
     "static/media/PubliCus.png": "/static/media/PubliCus.190bb3a563333f423393.png",
     "static/media/Busines2.png": "/static/media/Busines2.24c0c6080ae6e8e1e2f2.png",
+    "static/media/IntroductionImg-Mobile.png": "/static/media/IntroductionImg-Mobile.f93ef978fe632dfa0da3.png",
     "static/media/Busines1.png": "/static/media/Busines1.06bb88d7179f5d1ee0a9.png",
+    "static/media/Stage.svg": "/static/media/Stage.bff0caec180e8ea6590489bcb4e3d71d.svg",
+    "static/media/ProcessMpbil.svg": "/static/media/ProcessMpbil.522d308002fdbc4a8f57be5eb5fb921a.svg",
     "static/media/Diplwapl.png": "/static/media/Diplwapl.48023375aa1383a2fb27.png",
     "static/media/Busines3.png": "/static/media/Busines3.3a4dd651399f0510a005.png",
     "static/media/StepProcess.png": "/static/media/StepProcess.6655cca459d42d94bded.png",
@@ -29,10 +32,10 @@
     "static/media/Bus.svg": "/static/media/Bus.7b27c6a1a6b3d05a7f2c08b1e45dc2b0.svg",
     "static/media/company.svg": "/static/media/company.f0ef977f316805186ba9e5a583cbfc2a.svg",
     "main.cd325071.css.map": "/static/css/main.cd325071.css.map",
-    "main.da73faff.js.map": "/static/js/main.da73faff.js.map"
+    "main.c0833ce7.js.map": "/static/js/main.c0833ce7.js.map"
   },
   "entrypoints": [
     "static/css/main.cd325071.css",
-    "static/js/main.da73faff.js"
+    "static/js/main.c0833ce7.js"
   ]
 }
